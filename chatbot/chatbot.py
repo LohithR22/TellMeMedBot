@@ -6,7 +6,7 @@ import time
 client = genai.Client(api_key="AIzaSyC7EQbTwnugtG8XpLc-QcvrJ03gEjltE-U")
 
 # Set page config for better appearance
-st.set_page_config(page_title="Home Remedies Chatbot", page_icon="🌿", layout="wide")
+st.set_page_config(page_title="TellMeMed Bot", page_icon="🌿", layout="wide")
 
 # Custom CSS for smoother animations
 st.markdown("""
@@ -22,7 +22,7 @@ st.markdown("""
 
 # Set up Streamlit interface with animation
 with st.container():
-    st.title("🌿 Home Remedies Chatbot")
+    st.title("🌿 TellMeMed Bot")
     st.write("Describe your symptoms and get natural remedy suggestions")
 
 # Language selection with improved UI
