@@ -26,9 +26,11 @@ with st.container():
     st.write("Describe your symptoms and get natural remedy suggestions")
 
 # Language selection with improved UI
-languages = ["English", "Hindi", "Bengali", "Tamil", "Telugu", 
-            "Marathi", "Gujarati", "Urdu", "Kannada", 
-            "Malayalam", "Odia", "Punjabi","Assamese"]
+languages = ["English", "Assamese", "Bengali", "Bodo", "Dogri", "Gujarati", 
+             "Hindi", "Kannada", "Kashmiri", "Konkani", "Maithili", 
+             "Malayalam", "Manipuri", "Marathi", "Nepali", "Odia", 
+             "Punjabi", "Sanskrit", "Santali", "Sindhi", "Tamil", 
+             "Telugu", "Urdu"]
 selected_language = st.sidebar.selectbox("🌍 Select Language", languages)
 
 # Initialize chat session
@@ -59,10 +61,17 @@ if prompt := st.chat_input("What symptoms are you experiencing? 🤔"):
         # Check if it's a greeting
         greetings = ["hi", "hello", "hey", "greetings", "namaste"]
         if prompt.lower() in greetings:
-            context = f"Respond with a friendly greeting in {selected_language} and ask about the symptoms."
+            context = f"Respond concisely in {selected_language} with a warm and professional greeting. Avoid explaining what you are or how you function. Instead, immediately ask the user about their symptoms or how you can assist with their health concerns."
         else:
-            context = f"As a medical advisor, suggest natural home remedies for the following symptoms: {prompt}. Only suggest safe, common household remedies and include any necessary precautions. Please provide the response in {selected_language} language."
-        
+            context = (
+                f"You are a professional medical chatbot trained to assist with health concerns. "
+                f"Ask the user for essential details such as their age, gender, location, and any known medical conditions before providing a response. "
+                f"Then, based on their symptoms: {prompt}, suggest appropriate home remedies, lifestyle changes, and when necessary, recommend consulting a doctor. "
+                f"If the symptoms are severe, suggest visiting a general physician or a relevant specialist (e.g., dermatologist for skin issues, cardiologist for heart problems, etc.). "
+                f"Provide your response in {selected_language}. "
+                f"Ensure responses are medically sound, safe, and based on commonly accepted health guidelines."
+            )
+
         # Improved streaming animation
         response = st.session_state.chat.send_message_stream(context)
         for chunk in response:
