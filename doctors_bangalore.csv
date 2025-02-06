@@ -1,0 +1,27 @@
+doctor_id,name,specialization,phone_number,address,pin_code
+1,Dr. Anil Kumar,anil.kumar@email.com,Cardiologist,9876543210,"123, MG Road, Bangalore",560001
+2,Dr. Priya Reddy,priya.reddy@email.com,Dermatologist,9876543211,"456, Brigade Road, Bangalore",560025
+3,Dr. Ravi Patel,ravi.patel@email.com,Orthopedist,9876543212,"789, Indiranagar, Bangalore",560038
+4,Dr. Shalini Gupta,shalini.gupta@email.com,Pediatrician,9876543213,"101, Koramangala, Bangalore",560034
+5,Dr. Suresh Naik,suresh.naik@email.com,Neurologist,9876543214,"202, Whitefield, Bangalore",560066
+6,Dr. Neha Singh,neha.singh@email.com,Dentist,9876543215,"303, HSR Layout, Bangalore",560102
+7,Dr. Arvind Reddy,arvind.reddy@email.com,Urologist,9876543216,"404, JP Nagar, Bangalore",560078
+8,Dr. Ramesh Kumar,ramesh.kumar@email.com,Gastroenterologist,9876543217,"505, Bellandur, Bangalore",560103
+9,Dr. Sneha Iyer,sneha.iyer@email.com,Ophthalmologist,9876543218,"606, Sarjapur Road, Bangalore",560037
+10,Dr. Rajesh Babu,rajesh.babu@email.com,ENT Specialist,9876543219,"707, Marathahalli, Bangalore",560037
+11,Dr. Mansi Patel,mansi.patel@email.com,Gynecologist,9876543220,"808, Frazer Town, Bangalore",560005
+12,Dr. Vikram Shetty,vikram.shetty@email.com,Endocrinologist,9876543221,"909, Shanthinagar, Bangalore",560027
+13,Dr. Pooja Desai,pooja.desai@email.com,Plastic Surgeon,9876543222,"1010, Ulsoor, Bangalore",560008
+14,Dr. Nikhil Bansal,nikhil.bansal@email.com,Oncologist,9876543223,"1111, Banashankari, Bangalore",560070
+15,Dr. Kavitha R,kavitha.r@email.com,Rheumatologist,9876543224,"1212, Malleshwaram, Bangalore",560003
+16,Dr. Amit Sharma,amit.sharma@email.com,General Physician,9876543225,"1313, Yelahanka, Bangalore",560064
+17,Dr. Sonali Joshi,sonali.joshi@email.com,Pulmonologist,9876543226,"1414, BTM Layout, Bangalore",560029
+18,Dr. Tanvi Gupta,tanvi.gupta@email.com,Nephrologist,9876543227,"1515, Richmond Town, Bangalore",560025
+19,Dr. Aditya R,aditya.r@email.com,Psychiatrist,9876543228,"1616, Jayanagar, Bangalore",560041
+20,Dr. Suraj Rao,suraj.rao@email.com,Hematologist,9876543229,"1717, Rajajinagar, Bangalore",560010
+21,Dr. Meera Singh,meera.singh@email.com,Nutritionist,9876543230,"1818, Banaswadi, Bangalore",560043
+22,Dr. Karthik Rao,karthik.rao@email.com,Physiotherapist,9876543231,"1919, Vijayanagar, Bangalore",560040
+23,Dr. Rekha Joshi,rekha.joshi@email.com,Radiologist,9876543232,"2020, Electronic City, Bangalore",560100
+24,Dr. Jitendra Kumar,jitendra.kumar@email.com,Anesthesiologist,9876543233,"2121, Hebbal, Bangalore",560024
+25,Dr. Vani Iyer,vani.iyer@email.com,Speech Therapist,9876543234,"2222, Hoskote, Bangalore",560087
+26,Dr. Vishal Gupta,vishal.gupta@email.com,Chiropractor,9876543235,"2323, Kengeri, Bangalore",560060

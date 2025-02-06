@@ -1,0 +1,21 @@
+<!-- login.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Telemedicine</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 flex justify-center items-center h-screen">
+    <div class="bg-gray-800 p-8 rounded-xl shadow-lg w-96">
+        <h2 class="text-white text-2xl font-bold mb-4">Login</h2>
+        <form action="/login" method="POST" class="flex flex-col">
+            <input class="p-2 mb-3 rounded bg-gray-700 text-white" type="email" name="email" placeholder="Email" required>
+            <input class="p-2 mb-3 rounded bg-gray-700 text-white" type="password" name="password" placeholder="Password" required>
+            <button class="bg-blue-500 p-2 rounded text-white font-bold hover:bg-blue-600">Login</button>
+        </form>
+        <p class="text-gray-400 mt-4">Don't have an account? <a href="/signup" class="text-blue-400">Sign Up</a></p>
+    </div>
+</body>
+</html>
