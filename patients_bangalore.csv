@@ -1,0 +1,40 @@
+patient_id,name,email,phone_number,gender,dob,address,medical_history,pin_code
+1,John Doe,john.doe@example.com,9876543201,Male,1990-01-01,"123, MG Road, Bangalore",Hypertension,560001
+2,Jane Smith,jane.smith@example.com,9876543202,Female,1985-02-12,"456, Brigade Road, Bangalore",Asthma,560025
+3,Ravi Kumar,ravi.kumar@example.com,9876543203,Male,1992-03-15,"789, Indiranagar, Bangalore",Diabetes,560038
+4,Priya Sharma,priya.sharma@example.com,9876543204,Female,1988-04-20,"101, Koramangala, Bangalore",Thyroid,560034
+5,Karan Patel,karan.patel@example.com,9876543205,Male,1991-05-25,"202, Whitefield, Bangalore",Heart Disease,560066
+6,Sita Reddy,sita.reddy@example.com,9876543206,Female,1993-06-30,"303, HSR Layout, Bangalore",Migraine,560102
+7,Vikram Singh,vikram.singh@example.com,9876543207,Male,1987-07-14,"404, JP Nagar, Bangalore",Cancer,560078
+8,Anjali Gupta,anjali.gupta@example.com,9876543208,Female,1995-08-09,"505, Bellandur, Bangalore",Allergies,560103
+9,Shankar Rao,shankar.rao@example.com,9876543209,Male,1994-09-18,"606, Sarjapur Road, Bangalore",Back Pain,560037
+10,Neha Desai,neha.desai@example.com,9876543210,Female,1992-10-22,"707, Marathahalli, Bangalore",Depression,560037
+11,Manish Kumar,manish.kumar@example.com,9876543211,Male,1986-11-11,"808, Frazer Town, Bangalore",High Cholesterol,560005
+12,Anu Reddy,anu.reddy@example.com,9876543212,Female,1990-12-30,"909, Shanthinagar, Bangalore",Hypertension,560027
+13,Ajay Bansal,ajay.bansal@example.com,9876543213,Male,1989-01-18,"1010, Ulsoor, Bangalore",Asthma,560008
+14,Lakshmi Iyer,lakshmi.iyer@example.com,9876543214,Female,1987-02-05,"1111, Banashankari, Bangalore",Thyroid,560070
+15,Ravi Reddy,ravi.reddy@example.com,9876543215,Male,1984-03-25,"1212, Malleshwaram, Bangalore",Heart Disease,560003
+16,Suman Desai,suman.desai@example.com,9876543216,Female,1991-04-12,"1313, Yelahanka, Bangalore",Cancer,560064
+17,Amit Iyer,amit.iyer@example.com,9876543217,Male,1985-05-20,"1414, BTM Layout, Bangalore",Back Pain,560029
+18,Vijay Kumar,vijay.kumar@example.com,9876543218,Male,1982-06-14,"1515, Richmond Town, Bangalore",Depression,560025
+19,Aparna Rao,aparna.rao@example.com,9876543219,Female,1990-07-30,"1616, Jayanagar, Bangalore",Migraine,560041
+20,Harish Patel,harish.patel@example.com,9876543220,Male,1992-08-19,"1717, Rajajinagar, Bangalore",High Cholesterol,560010
+21,Meera Bansal,meera.bansal@example.com,9876543221,Female,1986-09-12,"1818, Banaswadi, Bangalore",Hypertension,560043
+22,Naveen Kumar,naveen.kumar@example.com,9876543222,Male,1993-10-05,"1919, Vijayanagar, Bangalore",Allergies,560040
+23,Rajesh Desai,rajesh.desai@example.com,9876543223,Male,1987-11-22,"2020, Electronic City, Bangalore",Back Pain,560100
+24,Tanuja Gupta,tanuja.gupta@example.com,9876543224,Female,1984-12-02,"2121, Hebbal, Bangalore",Heart Disease,560024
+25,Suresh Babu,suresh.babu@example.com,9876543225,Male,1990-01-09,"2222, Hoskote, Bangalore",Asthma,560087
+26,Madhavi Patel,madhavi.patel@example.com,9876543226,Female,1991-02-20,"2323, Kengeri, Bangalore",Diabetes,560060
+27,Sandeep Kumar,sandeep.kumar@example.com,9876543227,Male,1988-03-10,"3434, BTM Layout, Bangalore",Thyroid,560066
+28,Madhavi Singh,madhavi.singh@example.com,9876543228,Female,1989-04-18,"4545, Whitefield, Bangalore",Cancer,560025
+29,Gaurav Iyer,gaurav.iyer@example.com,9876543229,Male,1993-05-22,"5656, Sarjapur Road, Bangalore",Migraine,560010
+30,Rita Desai,rita.desai@example.com,9876543230,Female,1986-06-12,"6767, Marathahalli, Bangalore",Heart Disease,560037
+31,Anil Kumar,anil.kumar@example.com,9876543231,Male,1992-07-20,"7878, Koramangala, Bangalore",Allergies,560038
+32,Geeta Reddy,geeta.reddy@example.com,9876543232,Female,1990-08-30,"8989, Bellandur, Bangalore",Thyroid,560003
+33,Nikita Singh,nikita.singh@example.com,9876543233,Female,1988-09-15,"9090, Whitefield, Bangalore",High Cholesterol,560066
+34,Suresh Reddy,suresh.reddy@example.com,9876543234,Male,1985-10-08,"10101, HSR Layout, Bangalore",Heart Disease,560029
+35,Mohan Patel,mohan.patel@example.com,9876543235,Male,1994-11-19,"11111, Indiranagar, Bangalore",Asthma,560078
+36,Nivedita Bansal,nivedita.bansal@example.com,9876543236,Female,1991-12-11,"12121, Malleshwaram, Bangalore",Cancer,560027
+37,Amit Singh,amit.singh@example.com,9876543237,Male,1993-01-01,"13131, Ulsoor, Bangalore",Back Pain,560043
+38,Priya Babu,priya.babu@example.com,9876543238,Female,1992-02-22,"14141, Shanthinagar, Bangalore",Diabetes,560087
+39,Madhuri Iyer,madhuri.iyer@example.com,9876543239,Female,1994-03-18,"15151, Frazer Town, Bangalore",Hypertension,560060
