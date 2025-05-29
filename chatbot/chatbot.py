@@ -3,7 +3,7 @@ from google import genai
 import time
 
 # Initialize Gemini client
-client = genai.Client(api_key="AIzaSyC7EQbTwnugtG8XpLc-QcvrJ03gEjltE-U")
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 # Set page config for better appearance
 st.set_page_config(page_title="TellMeMed Bot", page_icon="🌿", layout="wide")

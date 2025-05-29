@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+Flask-Session
+streamlit
+requests
+flask_sqlalchemy
+python-dotenv
+google-generativeai  # For Gemini API (if using official Google Python SDK)
